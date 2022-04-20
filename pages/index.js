@@ -7,7 +7,7 @@ export default function Home() {
   return (
       <div className={styles.App}>
         <Navbar/>
-          <div className={}></div>
+          <div className={styles.App}>aasdasda</div>
       </div>
   )
 }
